@@ -8,3 +8,5 @@ My name is Matt, and I'm a professional designer 👨‍🎨  & hobbyist develop
 
 I work at [1904labs](https://1904labs.com) as a Human-Centered Designer.
 
+Been working on a concept app to manage books [Next Bookshelf](https://book-next-gql.now.sh/)
+

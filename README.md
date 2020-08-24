@@ -1,10 +1,10 @@
 ### Hello there 😎
 
-My name is Matt, and I'm a professional designer 👨‍🎨   & hobbyist developer 👨‍💻.  I like front-end development.
+My name is Matt, and I'm a professional designer 👨‍🎨 󠀠 & hobbyist developer 👨‍💻. 󠀠 I like front-end development.
 
-  🌎  I have a [blog](https://matthewrea.com/blog/) and [portfolio](https://matthewrea.com/work/) at my [website](https://matthewrea.com/)
-  🐦  Sometimes I look at [Twitter](https://twitter.com/mattrea)
-  🧐  Find me on [LinkedIn](https://www.linkedin.com/in/mattrea/)
+  - 󠀠🌎 󠀠󠀠I have a [blog](https://matthewrea.com/blog/) and [portfolio](https://matthewrea.com/work/) at my [website](https://matthewrea.com/)
+  - 󠀠🐦  󠀠Sometimes I look at [Twitter](https://twitter.com/mattrea)
+  - 󠀠🧐󠀠  Find me on [LinkedIn](https://www.linkedin.com/in/mattrea/)
 
 I work at [1904labs](https://1904labs.com) as a Human-Centered Designer.
 

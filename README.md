@@ -1,12 +1,11 @@
 ### Hello there 😎
 
-My name is Matt, and I'm a professional designer 👨‍🎨 󠀠 & hobbyist developer 👨‍💻. 󠀠 I like front-end development.
+My name is Matt, and I'm a professional designer 👨‍🎨 󠀠 & hobbyist developer 👨‍💻. 󠀠
 
-  - 󠀠🌎 󠀠 󠀠 I have a [blog](https://matthewrea.com/blog/) and [portfolio](https://matthewrea.com/work/) at my [website](https://matthewrea.com/)
+  - 󠀠🌎 󠀠 󠀠 I have a my [website](https://matthewrea.com/)
+  - 💫   Posting community files on [Figma](https://figma.com/@mattrea)
   - 󠀠🐦󠀠 󠀠 󠀠 Sometimes I look at [Twitter](https://twitter.com/mattrea)
   - 󠀠🧐󠀠󠀠 󠀠 󠀠 Find me on [LinkedIn](https://www.linkedin.com/in/mattrea/)
 
-I work at [1904labs](https://1904labs.com) as a Human-Centered Designer.
-
-Been working on a concept app to manage books [Next Bookshelf](https://book-next-gql.now.sh/)
+I work as a Product Designer at ThermoFisher Scientific.
 
